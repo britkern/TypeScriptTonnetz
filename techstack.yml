@@ -1,7 +1,8 @@
 repo_name: britkern/TypeScriptTonnetz
 report_id: 0f85aaf717e62b5324ac587dba3283ac
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-02T20:50:33+00:00'
+timestamp: '2024-01-05T08:30:32+00:00'
 requested_by: edelveart
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/britkern/TypeScriptTonnetz/blob/main/package.json
   detection_source: package.json
   last_updated_by: Edgar Delgado Vega
   last_updated_on: 2023-11-15 18:40:53.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/britkern/TypeScriptTonnetz
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -37,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/britkern/TypeScriptTonnetz
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/britkern/TypeScriptTonnetz/blob/main/package.json
   detection_source: package.json
   last_updated_by: Edgar Delgado Vega
   last_updated_on: 2023-10-27 01:25:28.000000000 Z
